@@ -1,3 +1,4 @@
+'bestip.kcni.us.kg:443#IBestIP'
 '[2606:4700:e5:dcad:69e9:2fba:3a31:a721]:443#IPV6优选',
 '[2606:4700:e5:dcad:69e9:70ce:cc9f:61f9]:443#IPV6优选',
 '[2606:4700:e5:dcad:69e9:2fd1:8edb:150d]:443#IPV6优选',
